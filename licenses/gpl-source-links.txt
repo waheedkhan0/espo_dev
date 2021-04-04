@@ -1,0 +1,1 @@
+espocrm-6.1.5,GPL3,http://downloads.sourceforge.net/project/espocrm/EspoCRM-6.1.5.zip
